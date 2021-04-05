@@ -1,0 +1,4 @@
+pulumi
+pulumi-azure-native
+bs4
+requests
